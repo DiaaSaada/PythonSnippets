@@ -6,4 +6,4 @@ def euclidean_gcd(a, b):
     return euclidean_gcd(b, a1)
 
 
-print(euclidean_gcd(32, 24))
+print(euclidean_gcd(33333335700000, 3323400))
